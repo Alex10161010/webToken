@@ -1,0 +1,14 @@
+Funtes de informacion
+    https://jwt.io/
+
+
+Implementación de Json Web Token con PHP
+    https://anexsoft.com/implementacion-de-json-web-token-con-php
+
+
+NodeJS API con JSON WEB TOKEN (JWT) y Express
+    https://www.youtube.com/watch?v=cL3bXzUBFUA
+
+
+Nodejs REST API con JWT y Roles (Autorización y Autenticación) & Mongodb
+    https://www.youtube.com/watch?v=lV7mxivGX_I&t=5651s

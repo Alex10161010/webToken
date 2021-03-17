@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "nombre":"Elias",
+        "apellido":"Mome",
+        "email":"alejandro@gmail.com",
+        "password":"$2y$10$oS7RonSM3vtesMDQMJOHH.2edQERa0DqKAWS7zMhEZpjUK8927SLO",
+        "genero":"M",
+        "cumple":"24/04/1992",
+        "rol":1
+    },
+    {
+        "id":2,
+        "nombre":"Lakita",
+        "apellido":"Home",
+        "email":"laskita@gmail.com",
+        "password":"$2y$10$3bnN4aGcGcgRrK7gRM.QF.fzlFJDmjtAdfIaLsgNzZPiF/xIboQHy",
+        "genero":"M",
+        "cumple":"20/04/2000",
+        "rol":2
+    }
+]

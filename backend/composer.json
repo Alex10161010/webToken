@@ -1,0 +1,16 @@
+{
+    "name": "alex101610/token",
+    "description": "token con php",
+    "type": "proyecto",
+    "require": {
+        "firebase/php-jwt":"5.2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex10161010",
+            "email": "eliasalejandromome@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
