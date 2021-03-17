@@ -1,4 +1,6 @@
-Funtes de informacion
+Fuentes de información
+
+JSON Web Tokens
     https://jwt.io/
 
 
